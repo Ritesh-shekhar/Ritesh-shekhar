@@ -1,5 +1,5 @@
 
-[![MasterHead](C:\Users\Ritesh Singh\Downloads\Full-Stack-Developer-980x462-1.png)
+[![MasterHead](https://www.sevenmentor.com/wp-content/uploads/2020/10/Full-Stack-Developer-980x462-1.png)
 (www.linkedin.com/in/ritesh-kumar9972)
 
 <h1 align="center">Hi 👋, I'm Ritesh</h1>
